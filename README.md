@@ -5,10 +5,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/MimansaDas/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0130-surrounded-regions](https://github.com/MimansaDas/leetcode/tree/master/0130-surrounded-regions) |
 | [0162-find-peak-element](https://github.com/MimansaDas/leetcode/tree/master/0162-find-peak-element) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/MimansaDas/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/MimansaDas/leetcode/tree/master/0162-find-peak-element) |
+## Depth-First Search
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/MimansaDas/leetcode/tree/master/0130-surrounded-regions) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/MimansaDas/leetcode/tree/master/0130-surrounded-regions) |
+## Union-Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/MimansaDas/leetcode/tree/master/0130-surrounded-regions) |
+## Matrix
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/MimansaDas/leetcode/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
