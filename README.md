@@ -17,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/MimansaDas/leetcode/tree/master/0130-surrounded-regions) |
+| [0133-clone-graph](https://github.com/MimansaDas/leetcode/tree/master/0133-clone-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/MimansaDas/leetcode/tree/master/0130-surrounded-regions) |
+| [0133-clone-graph](https://github.com/MimansaDas/leetcode/tree/master/0133-clone-graph) |
 ## Union-Find
 |  |
 | ------- |
@@ -37,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MimansaDas/leetcode/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/MimansaDas/leetcode/tree/master/0133-clone-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/MimansaDas/leetcode/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
