@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/MimansaDas/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0130-surrounded-regions](https://github.com/MimansaDas/leetcode/tree/master/0130-surrounded-regions) |
 | [0162-find-peak-element](https://github.com/MimansaDas/leetcode/tree/master/0162-find-peak-element) |
+| [0399-evaluate-division](https://github.com/MimansaDas/leetcode/tree/master/0399-evaluate-division) |
 ## Binary Search
 |  |
 | ------- |
@@ -18,15 +19,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/MimansaDas/leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/MimansaDas/leetcode/tree/master/0133-clone-graph) |
+| [0399-evaluate-division](https://github.com/MimansaDas/leetcode/tree/master/0399-evaluate-division) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/MimansaDas/leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/MimansaDas/leetcode/tree/master/0133-clone-graph) |
+| [0399-evaluate-division](https://github.com/MimansaDas/leetcode/tree/master/0399-evaluate-division) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/MimansaDas/leetcode/tree/master/0130-surrounded-regions) |
+| [0399-evaluate-division](https://github.com/MimansaDas/leetcode/tree/master/0399-evaluate-division) |
 ## Matrix
 |  |
 | ------- |
@@ -47,4 +51,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/MimansaDas/leetcode/tree/master/0133-clone-graph) |
+| [0399-evaluate-division](https://github.com/MimansaDas/leetcode/tree/master/0399-evaluate-division) |
+## String
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/MimansaDas/leetcode/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/MimansaDas/leetcode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
