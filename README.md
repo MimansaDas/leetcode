@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/MimansaDas/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0130-surrounded-regions](https://github.com/MimansaDas/leetcode/tree/master/0130-surrounded-regions) |
 | [0162-find-peak-element](https://github.com/MimansaDas/leetcode/tree/master/0162-find-peak-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/MimansaDas/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0399-evaluate-division](https://github.com/MimansaDas/leetcode/tree/master/0399-evaluate-division) |
 ## Binary Search
 |  |
@@ -71,4 +72,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/MimansaDas/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/MimansaDas/leetcode/tree/master/0210-course-schedule-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/MimansaDas/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/MimansaDas/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/MimansaDas/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/MimansaDas/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
