@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/MimansaDas/leetcode/tree/master/0133-clone-graph) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/MimansaDas/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Graph Theory
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/MimansaDas/leetcode/tree/master/0399-evaluate-division) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/MimansaDas/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/MimansaDas/leetcode/tree/master/0062-unique-paths) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/MimansaDas/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,4 +109,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/MimansaDas/leetcode/tree/master/0062-unique-paths) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/MimansaDas/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Counting
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/MimansaDas/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
