@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/MimansaDas/leetcode/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/MimansaDas/leetcode/tree/master/0062-unique-paths) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/MimansaDas/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
